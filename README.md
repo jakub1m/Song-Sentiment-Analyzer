@@ -13,7 +13,7 @@ This project is designed to analyze the sentiment of song lyrics. It provides an
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/jakub1m/Song-Sentiment-Analyzer.git
 ```
 2. Install dependencies:
 ```bash
