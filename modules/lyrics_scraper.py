@@ -146,7 +146,3 @@ class Groove:
         lyrics = lyrics_div.get_text(separator='\n').strip()
         return lyrics
     
-
-tekstowo =Tekstowo()
-tekstowo.get_data("https://www.tekstowo.pl/piosenka,atika_patum_,atikapatum.html")
-print(tekstowo.get_lyrics())
